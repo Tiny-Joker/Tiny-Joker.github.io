@@ -1,5 +1,5 @@
 {
-    "title": "111",
+    "title": "暗莉の小站",
     "theme": {
         "theme": "defdark",
         "displayName": "ACG-Home",
@@ -19,13 +19,13 @@
         }
     },
     "masterInfo": {
-        "name": "<站长名字>",
-        "avatar": "./assets/images/avatar.png",
-        "website": "https://hic.top",
+        "name": "小坏蛋qwqq",
+        "avatar": "./assets/images/tou.jpg",
+        "website": "https://tiny-joker.github.io/",
         "socialLink": {
             "link": {
-                "bilibili": "https://space.bilibili.com/675279872",
-                "github": "https://github.com/ChengCheng0v0",
+                "bilibili": "https://space.bilibili.com/39525782",
+                "github": "https://github.com/Tiny-Joker",
                 "email": "javascript:showEmail()"
             },
             "icon": {
