@@ -124,6 +124,124 @@ body {
     z-index: 0;
 }
 
+/* 博客模块 */
+#blog-root .blog-h2 {
+    margin: 0 0 14px 0;
+    font-size: 22px;
+    font-weight: bold;
+    color: #304660;
+}
+
+#blog-root .blog-h2 i {
+    margin-right: 8px;
+    color: #49b1f5;
+}
+
+#blog-root .post-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#blog-root .post-item {
+    margin-bottom: 14px;
+}
+
+#blog-root .post-link {
+    display: block;
+    padding: 14px 18px;
+    border-radius: 10px;
+    background-color: #f6f8fa;
+    border: 1px solid #eaeaea;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s ease;
+}
+
+#blog-root .post-link:hover {
+    background-color: #eaf6ff;
+    border-color: #49b1f5;
+    transform: translateY(-2px);
+}
+
+#blog-root .post-title {
+    display: block;
+    font-size: 17px;
+    font-weight: bold;
+    color: #304660;
+}
+
+#blog-root .post-meta {
+    display: block;
+    margin-top: 6px;
+    font-size: 12px;
+    color: #888;
+}
+
+#blog-root .post-tags {
+    margin-left: 10px;
+}
+
+#blog-root .post-excerpt {
+    display: block;
+    margin-top: 8px;
+    font-size: 13px;
+    color: #6b6b6b;
+    line-height: 1.6;
+}
+
+#blog-root .post-back {
+    display: inline-block;
+    margin-bottom: 16px;
+    color: #49b1f5;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+#blog-root .post-back:hover {
+    text-decoration: underline;
+}
+
+#blog-root .post-article h1,
+#blog-root .post-article h2,
+#blog-root .post-article h3 {
+    color: #304660;
+    margin: 18px 0 10px 0;
+}
+
+#blog-root .post-article p {
+    line-height: 1.8;
+}
+
+#blog-root .post-article code {
+    background-color: #f0f0f0;
+    padding: 2px 5px;
+    border-radius: 4px;
+    font-family: monospace;
+}
+
+#blog-root .post-article pre {
+    background-color: #f6f8fa;
+    padding: 14px 16px;
+    border-radius: 8px;
+    overflow-x: auto;
+}
+
+#blog-root .post-article blockquote {
+    margin: 12px 0;
+    padding: 8px 16px;
+    border-left: 4px solid #49b1f5;
+    background-color: #f6f8fa;
+    color: #555;
+}
+
+#blog-root .blog-error,
+#blog-root .blog-empty {
+    color: #e87a90;
+    font-size: 14px;
+}
+/* 博客模块 End */
+
 /* - 左侧卡片 */
 .primary-container > .left-area > .cards > .card-item {
     width: 100%;
