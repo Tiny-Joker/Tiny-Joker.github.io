@@ -2,6 +2,7 @@
     "title": "暗莉の小站",
     "theme": {
         "theme": "defdark",
+        "displayName": "ACG-Home",
         "colors": {
             "autoSwitch": {
                 "displayName": "Auto",
